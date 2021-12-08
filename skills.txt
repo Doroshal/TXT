@@ -1,0 +1,16 @@
+
+1:theory testing,
+2:client server architecture
+3:SQL
+4:logs
+5:json,xml
+6:api
+7:postman
+8:vpn
+9:dev tools
+10:git bash
+11:jmeter
+12:python
+13:scrum
+14:git
+15:linux ubuntu
